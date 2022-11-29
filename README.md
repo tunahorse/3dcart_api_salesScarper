@@ -21,7 +21,7 @@ Note: Order Status look up support will be included in future version.
 
 ```golang
 
-go run sales_script go. 
+go run sales_script.go
 
 ```
 
